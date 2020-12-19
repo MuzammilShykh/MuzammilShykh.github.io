@@ -132,11 +132,14 @@
         animation-name: avatar ;
         animation-duration: 5s;
         ;
+    
     }
         
     @keyframes avatar{
         from{width: 30px;}
         to{width: 170px;}
     }
+
+    #para-section2{padding-bottom: 10%; margin-top: 3%; font-size: 16px;}
     
 }
